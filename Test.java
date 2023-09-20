@@ -3,6 +3,6 @@ class Test {
 
         System.out.println(" This pipeline project.........!");
         System.out.println("Edit by vs code.....!");
-        System.out.println("from test claSS");
+        System.out.println("from test class...............");
     }
 }
